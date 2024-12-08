@@ -2,7 +2,7 @@ from typing import Callable, Awaitable, Dict, Any, List
 from aiogram import BaseMiddleware
 from aiogram.types import Message
 import json
-from responses.apiformation import get_botword_text
+
 
 
 #example Multi languages badwords handler if you add file in main.py string 19
