@@ -3,8 +3,8 @@ from aiogram import Bot, Dispatcher
 import logging
 from config_reader import config
 from handlers import bot_messages, user_comands, questionaire, callback_handlers
-from middlewares.antiflood import AntiFloodMiddleware
-from middlewares.badwords import MultiLangBadWordsMiddleware
+from midlwares.antiflood import AntiFloodMiddleware
+from midlwares.badwordshandler import MultiLangBadWordsMiddleware
 
 
 #example main
