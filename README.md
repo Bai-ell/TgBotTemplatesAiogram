@@ -58,3 +58,11 @@ TgBotTemplatesAiogram/
 ├── utils/                  # Утилиты, states и прочее
 ├── .env.example            # Пример конфигурации
 ├── requirements.txt        # Зависимости
+
+
+
+
+🛠️ Требования
+
+Python 3.10+
+Aiogram 3.x
