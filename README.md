@@ -49,7 +49,8 @@ TgBotTemplatesAiogram
 🧩 Структура проекта
 
 
-TgBotTemplatesAiogram/\n
+```text
+TgBotTemplatesAiogram/
 ├── main.py                 # Точка входа
 ├── config.py               # Загрузка конфигурации
 ├── handlers/               # Хендлеры сообщений и команд
@@ -58,7 +59,7 @@ TgBotTemplatesAiogram/\n
 ├── utils/                  # Утилиты, states и прочее
 ├── .env.example            # Пример конфигурации
 ├── requirements.txt        # Зависимости
-
+```
 
 
 
