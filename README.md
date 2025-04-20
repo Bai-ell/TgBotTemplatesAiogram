@@ -52,11 +52,12 @@ TgBotTemplatesAiogram
 ```text
 TgBotTemplatesAiogram/
 ├── main.py                 # Точка входа
-├── config.py               # Загрузка конфигурации
+├── config_reader.py        # Загрузка конфигурации
 ├── handlers/               # Хендлеры сообщений и команд
 ├── middlewares/            # Middleware-логика
 ├── keyboards/              # Клавиатуры
 ├── utils/                  # Утилиты, states и прочее
+├── badwordru.json          # Сборник для защиты
 ├── .env.example            # Пример конфигурации
 ├── requirements.txt        # Зависимости
 ```
