@@ -49,7 +49,7 @@ TgBotTemplatesAiogram
 🧩 Структура проекта
 
 
-TgBotTemplatesAiogram/
+TgBotTemplatesAiogram/\n
 ├── main.py                 # Точка входа
 ├── config.py               # Загрузка конфигурации
 ├── handlers/               # Хендлеры сообщений и команд
