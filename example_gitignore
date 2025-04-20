@@ -1,9 +1,0 @@
-.env
-.venv
-.tgtest.json
-
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
